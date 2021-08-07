@@ -9,8 +9,8 @@ title: About
 
 - **General Chair:** Pavel Kustarev, ITMO University, Russia
 - **Program Chair:** Aleksandr Penskoi, ITMO University, Russia
-- **Proceeding Сhair:** Olga Parkhimovich, ITMO University, Russia
-- **Organizing Сhair:** Tatiana Markina, ITMO University, Russia
+- **Proceeding Сhair:** Tatiana Markina, ITMO University, Russia
+- **Organizing Сhair:**  Elena Boldyreva, ITMO University, Russia
 
 ## Local Organization Team
 
@@ -19,7 +19,7 @@ title: About
 | Dmitry Mouromtsev       | ITMO University | Russia  |
 | Artem Smolin            | ITMO University | Russia  |
 | Andrey Dergachev        | ITMO University | Russia  |
-| Elena Boldyreva         | ITMO University | Russia  |
+| Olga Parchimovich       | ITMO University | Russia  |
 | Sergei Bykovskii        | ITMO University | Russia  |
 | Nadezhda Krasnorutskaya | ITMO University | Russia  |
 
