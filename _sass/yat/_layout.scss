@@ -12,8 +12,7 @@ html {
     header.site-header-transparent {
       height: 0;
       margin-top: 12px;
-      /**background-color: transparent;*/
-      background-color: #ffe;
+      background-color: transparent;
       transition: 0.1s height,background-color,box-shadow;
 
       &.site-header {
