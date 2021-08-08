@@ -11,8 +11,9 @@ html {
   &[data-scroll-status='top'] {
     header.site-header-transparent {
       height: 0;
-      margin-top: 16px;
-      background-color: transparent;
+      margin-top: 12px;
+      /**background-color: transparent;*/
+      background-color: #ffe;
       transition: 0.1s height,background-color,box-shadow;
 
       &.site-header {
