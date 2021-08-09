@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: MICSECS-2021
 heading: "MICSECS-2021"
 subheading: The XIII Majorov International Conference on Software Engineering and Computer Systems
