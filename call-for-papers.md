@@ -73,5 +73,5 @@ The section is dedicated not only to improving current UI/UX and their developme
 
 - Address: ITMO University, 49 Kronverksky Pr., St. Petersburg, 197101, Russia
 - [MICSECS-2021 site]()
-- [Submission and Registration]({{ site.base_url }}/register-and-submit/)
+- [Submission and Registration]({{ site.base_url }}/register-and-submit.html)
 - Organizer email: <mailto:mr@itmo.ru>
