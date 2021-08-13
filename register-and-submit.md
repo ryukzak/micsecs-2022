@@ -22,7 +22,7 @@ To participate in the conference with a research paper and oral presentation, yo
 1. The program committee will be performing a double-blind review process whereby reviewers' names and authors' names are screened from each other. 
 2. All accepted papers will be published in [CEUR Workshop Proceedings](http://ceur-ws.org) and indexed by [Scopus](https://www.scopus.com).
 3. A submission should include:
-    - The paper within The New CEURART Style LaTeX template (1-col)
+    - The paper within The New CEURART Style LaTeX template (2-col)
         - We recommend using [Overleaf Template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk)
         - Size: short papers (5-9 "standard" pages), regular papers (at least 10 "standard" pages but not more than 12)
         - Use title capitalization ([Capitalize My Title](https://capitalizemytitle.com)) for the paper and sections titles
