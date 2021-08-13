@@ -16,12 +16,13 @@ title: About
 
 | Name                    | Company         | Country |
 |-------------------------|-----------------|---------|
-| Dmitry Mouromtsev       | ITMO University | Russia  |
-| Artem Smolin            | ITMO University | Russia  |
 | Andrey Dergachev        | ITMO University | Russia  |
+| Artem Smolin            | ITMO University | Russia  |
+| Dmitry Mouromtsev       | ITMO University | Russia  |
+| Nadezhda Krasnorutskaya | ITMO University | Russia  |
 | Olga Parchimovich       | ITMO University | Russia  |
 | Sergei Bykovskii        | ITMO University | Russia  |
-| Nadezhda Krasnorutskaya | ITMO University | Russia  |
+
 
 
 ## Program committee
