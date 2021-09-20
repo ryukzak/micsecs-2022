@@ -1,6 +1,6 @@
 
 - **The beginning of the participant registration**: 21 September 2021
-- **Paper and Report submission deadline**: <!--- <s>1 October 2021</s> <b style="color: red;">21 October 2021</b>-->
+- **Paper and Report submission deadline**: <s>1 October 2021</s> <b style="color: red;">21 October 2021</b> <!--- <s>1 October 2021</s> <b style="color: red;">21 October 2021</b>-->
 - **Author notification**: 15 November 2021
 - **Student Colloquium registration deadline**: 15 November 2021
 - **Conference program publication**: 22 November 2021
