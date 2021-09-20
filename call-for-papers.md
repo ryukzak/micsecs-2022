@@ -15,9 +15,9 @@ The conference will be planed to be performed in a hybrid format with online and
 
 The conference gives a possibility to exchange their experience and results in perspective areas of research and engineering of complex computer systems. All types of participation are free. The program committee will carefully review all submissions. In 2020, we received 109 papers, and the acceptance rate was 0.65, 3.15 reviews per paper. 
 
-### Papers with Oral Presentation
+### Research Papers with Oral Presentation
 
-Papers with oral presentations are dedicated to demonstrating the results of participant research and involve discussions with researchers in your area of interest, getting feedback, new ideas, and meetings. All accepted papers with oral presentation will be published in indexed by Scopus conference proceedings ([2020](http://ceur-ws.org/Vol-2893/), [2019](http://ceur-ws.org/Vol-2590/), [2018](http://ceur-ws.org/Vol-2344/)). Oral sections will be performing in English languages.
+Research papers with oral presentations are dedicated to demonstrating the results of participant research and involve discussions with researchers in your area of interest, getting feedback, new ideas, and meetings. All accepted papers with oral presentation will be published in indexed by Scopus conference proceedings ([2020](http://ceur-ws.org/Vol-2893/), [2019](http://ceur-ws.org/Vol-2590/), [2018](http://ceur-ws.org/Vol-2344/)). Oral sections will be performing in English languages.
 
 If you want to have additional networking, discussions, live demonstration, or show technical details, you can also participate in poster or workshop sessions with the same paper.
 
