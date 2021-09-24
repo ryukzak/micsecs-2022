@@ -27,7 +27,7 @@ Research papers are dedicated to demonstrating the results of participant resear
 - Conference report should be performed in English.
 - Submission requirements:
     - The paper should be presented in <strong>modified</strong> "The New CEURART Style LaTeX template (2-col)"
-    - We recommend using [Overleaf Template](https://www.overleaf.com/read/qjctcvzktdsf)
+    - We recommend using [Overleaf CEUR MICSECS Template](https://www.overleaf.com/read/qjctcvzktdsf)
     - Size: short papers (5-9 "standard" pages), regular papers (at least 10 "standard" pages but not more than 12)
     - Use title capitalization ([Capitalize My Title](https://capitalizemytitle.com)) for the paper and sections titles
     - Brief abstract, designed for a wide range of readers, in the volume of about 200-250 words to state the article's scientific content was presented
@@ -66,7 +66,7 @@ Reports of work in progress and pet project dedicated to demonstrating the curre
 - Conference report should be performed in English or Russian.
 - Submission requirements:
     - The paper should be presented in <strong>modified</strong> "The New CEURART Style LaTeX template (1-col)"
-    - We recommend using [Overleaf Template](https://www.overleaf.com/read/dwgrknmfyknc)
+    - We recommend using [Overleaf RSCI MICSECS Template](https://www.overleaf.com/read/dwgrknmfyknc)
     - Size: short papers (5-9 "standard" pages).
     - Use title capitalization ([Capitalize My Title](https://capitalizemytitle.com)) for the paper and sections titles
     - Brief abstract, designed for a wide range of readers, in the volume of about 200-250 words to state the article's scientific content was presented
