@@ -23,7 +23,7 @@ Research papers are dedicated to demonstrating the results of participant resear
 
 - The program committee will be performing a double-blind review process whereby reviewers' names and authors' names are screened from each other. 
 - All accepted papers will be published in [CEUR Workshop Proceedings](http://ceur-ws.org) and indexed by [Scopus](https://www.scopus.com).
-- EasyChair performs all material uploading.
+- EasyChair performs all material uploading ([link](https://easychair.org/conferences/?conf=micsecs2021)).
 - Conference report should be performed in English.
 - Submission requirements:
     - The paper should be presented in <strong>modified</strong> "The New CEURART Style LaTeX template (2-col)"
@@ -43,7 +43,7 @@ To participate in the conference with a research paper, you need to perform the 
         - Sponsors and grant numbers
         - **Be aware**, violation of these requirements may lead to the rejection of your paper
     - You need to fill EasyChair submission forms, including authors, title, abstract, keywords, topics (select from the provided list), submission type, and preferable language for oral presentation.
-    - At this stage, you do NOT need to upload other files!
+    - At this stage, you do <strong>not need</strong> to upload other files!
     - If you need to update documents, you should do this by EasyChair in an existing submission. **You do not need to create a new submission!**
 2. Wait for the conclusion of the program committee. If your paper is accepted, participate in the conference.
 3. After participation, submit the camera-ready paper and legal documents:
@@ -62,7 +62,7 @@ Reports of work in progress and pet project dedicated to demonstrating the curre
 
 - The program committee will be performing a double-blind review process whereby reviewers' names and authors' names are screened from each other. 
 - All accepted papers will be published in conference proceedings and indexed by the RSCI database.
-- EasyChair performs all material uploading.
+- EasyChair performs all material uploading ([link](https://easychair.org/conferences/?conf=micsecs2021)).
 - Conference report should be performed in English or Russian.
 - Submission requirements:
     - The paper should be presented in <strong>modified</strong> "The New CEURART Style LaTeX template (1-col)"
@@ -82,13 +82,13 @@ To participate in the conference with a research paper, you need to perform the 
         - Sponsors and grant numbers
         - **Be aware**, violation of these requirements may lead to the rejection of your paper
     - You need to fill EasyChair submission forms, including authors, title, abstract, keywords, topics (select from the provided list), submission type, and preferable language for oral presentation.
-    - At this stage, you do NOT need to upload other files!
+    - At this stage, you do <strong>not need</strong> to upload other files!
     - If you need to update documents, you should do this by EasyChair in an existing submission. **You do not need to create a new submission!**
 2. Wait for the conclusion of the program committee. If your paper is accepted, participate in the conference.
 3. After participation, submit the camera-ready paper and legal documents:
     - The camera-ready paper should include author names, affiliations, contact information, sponsors, and grant numbers. 
     - Each author should have an ORCID identifier
-    - Copyright Transfer Agreement for publication by ITMO University (coming soon)
+    - Copyright Transfer Agreement for Publication by ITMO University (coming soon)
     - Expert Conclusion on the Publication Possibility (coming soon)
 
 
