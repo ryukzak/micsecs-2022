@@ -94,7 +94,19 @@ To participate in the conference with a research paper, you need to perform the 
 
 ## Student Colloquium
 
-(coming soon)
+Student Colloquium is a non-formal format that combines oral presentation and poster session elements in which participants can briefly overview their work and continue discussions with interested listeners. 
+
+To participate in this format, you should fill the following form: [Student Colloquium Registration Form](https://forms.yandex.ru/u/61718dec31e7c01174a01c6b/)
+
+The section is held in rounds, each of which includes:
+
+1. Fast and dynamic speeches (pitches) of 4 participants in a row without interruptions to questions for 2 minutes each
+2. During the speech, the conference manager shows your project presentation. Say “Next slide” when you need it.
+    - The presentation should be submitted to the conference email (<mr@ifmo.ru>) in the `.pdf` format with the topic like `Colloquium: <Last name>`
+    - The presentation size: two-four slides
+3. After the round is finished, speakers are assigned to a personal room (zoom breakout room). 4. Listeners can freely move between rooms by themself or with helping from conference managers.
+5. After 10 minutes of discussions, all participants return to the common room, and a new round begins.
+
 
 ## Poster and Workshop Sessions
 
