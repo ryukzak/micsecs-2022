@@ -17,7 +17,7 @@ The conference will be planed to be performed in a hybrid format with online and
 
 ## Partners
 
-<a href="https://itmo.ru/ru/" Target="_blank"><Img src="/assets/images/ITMO_logo.png" Width="180" Height="50"> </a>
+<a href="https://itmo.ru/ru/" Target="_blank"><Img src="/assets/images/ITMO_logo.png" Width="200" Height="80"> </a>
 <a href="https://masterdata.ru/about/" Target="_blank"><Img src="/assets/images/logo-blue-1.png" Width="200" Height="50"> </a>
 
 ## Archive
