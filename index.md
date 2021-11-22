@@ -15,6 +15,10 @@ The conference will be planed to be performed in a hybrid format with online and
 
 {%- include texts/dates.md -%}
 
+## Partners
+
+
+
 ## Archive
 
 {%- include texts/archive.md -%}
