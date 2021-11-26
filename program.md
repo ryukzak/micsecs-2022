@@ -124,6 +124,7 @@ For any questions, feel free to contact us by email (<mr@itmo.ru>) or telegram (
 
 - A presentation time on sections is 10 minutes (7 for speech, 3 for discussion).
 - A long presentation (marked as "long" in the schedule below) time on sections is 15 minutes (10 for speech, 5 for discussion).
+- Presentation language marked in the schedule below, but we hold opportunity to change your language by a section chair if that allow to improve the conference expirience (e.g., all listeners are familiar with Russian language).
 - Presentation template: bright background, dark and contrast text. Widescreen template preferable.
 
 ## Thu. 2 Dec. 2021 (Day 1)
