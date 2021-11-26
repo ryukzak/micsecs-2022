@@ -33,7 +33,7 @@ title: Conference Program
   <tr>
     <td class="tg-0pky" rowspan="5">Thu. 2 Dec. 2021<br><span style="font-weight:bold">(Day 1)</span></td>
     <td class="tg-c3ow">10:00      </td>
-    <td class="tg-c3ow" colspan="2">Open ceremony</td>
+    <td class="tg-c3ow" colspan="2">Open Ceremony</td>
   </tr>
   <tr>
     <td class="tg-baqh">10:30-12:00</td>
@@ -83,7 +83,7 @@ title: Conference Program
   </tr>
   <tr>
     <td class="tg-baqh">18:30</td>
-    <td class="tg-baqh" colspan="2">Close ceremony</td>
+    <td class="tg-baqh" colspan="2">Close Ceremony</td>
   </tr>
 </tbody>
 </table>
@@ -128,6 +128,19 @@ For any questions, feel free to contact us by email (<mr@itmo.ru>) or telegram (
 
 ## Thu. 2 Dec. 2021 (Day 1)
 
+### Open Ceremony
+
+Date: Thu. 2 Dec. 2021 (Day 1) \\
+Time: 10:00 \\
+Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
+
+### Keynote: IT industries and specializations: where is the market going, who needs lowcode platforms and why?
+
+Speaker: Oleg Lapshin (Pega)
+Date: Thu. 2 Dec. 2021 (Day 1) \\
+Time: 10:30-12:00 \\
+Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
+
 ### Artificial Intelligence, Machine Learning #1
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
@@ -167,6 +180,13 @@ Chair: (soon)
     by Vladimir Bogatyrev, Stanislav Bogatyrev and Аnatoly Bogatyrev <span class="bdg">en</span>
 1. <!--WIP en--> [58] Multipath redundant transmission with traffic hetero-geneity in terms of the criticality of network delays \\
     by Vladimir Bogatyrev, Stanislav Bogatyrev and Anatoly Bogatyrev <span class="bdg">en</span>
+
+### Masterclass: Погружение в RPA-технологии
+
+Speakers: Олег Лапшин, Александр Гриценко (masterdata)
+Date: Thu. 2 Dec. 2021 (Day 1) \\
+Time: 14:00-15:30 \\
+Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
 
 ### Artificial Intelligence, Machine Learning #2
 
@@ -210,6 +230,13 @@ Chair: (soon)
 
 ## Fri. 3 Dec. 2021 (Day 2)
 
+### Keynote: Интеграция команды в себя, как работает незрячий DevOps инженер?
+
+Speaker: Евгений Некрасов (Университет ИТМО)
+Date: Fri. 3 Dec. 2021 (Day 2) \\
+Time: 10:15-11:00 \\
+Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
+
 ### Cyber-Physical Systems & Internet of Things #1
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
@@ -251,6 +278,13 @@ Chair: (soon)
     by Danil Shepelev, Anton Saevsky, Igor Shepelev, Valery Kiroy, Dmitry Lazurenko and Dmitry Shaposhnikov <span class="bdg">en</span>
 5. <!--WIP ru--> [30] Spatial Hashing in a Gradient Refractive Index Media \\
     by Andrew Lemeshev <span class="bdg">ru</span>
+
+### Keynote: Трансгуманизм киборгизации, импланты и серая зона
+
+Speaker: Евгений Некрасов (Университет ИТМО)
+Date: Fri. 3 Dec. 2021 (Day 2) \\
+Time: 13:00-13:30 \\
+Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
 
 ### Cyber-Physical Systems & Internet of Things #2
 
@@ -336,3 +370,17 @@ Chair: (soon)
 <!-- en 84 An Ensemble Learning Approach Towards Prediction of Diabetic Retinopathy \\
     by  \\
     by Khaja Mannanuddin, Logeshwari Dhavamani, Selvakumar V, Praveen B. R, Sakthivel T.G and Saranya P -->
+
+### Student Colloquium
+
+Date: Fri. 3 Dec. 2021 (Day 2) \\
+Time: 17:00-18:00 \\
+Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
+
+Program of student colloquium will be published soon.
+
+### Close Ceremony
+
+Date: Fri. 3 Dec. 2021 (Day 2) \\
+Time: 18:30 \\
+Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
