@@ -38,7 +38,7 @@ title: About
 - **Address:** ITMO University, 49 Kronverksky Pr., St. Petersburg, 197101, Russia
 - **Organizer email:** <mailto:mr@itmo.ru>
 - **Telegram:** <https://t.me/MICSECS_chat>
-- **Organizing Сhair Phone:** +7-952-239-04-63 (Elena Boldyreva)
+- **Organizing Сhair Phone:** [+7-952-239-04-63](tel:79522390463) (Elena Boldyreva)
 
 ## Archive
 

@@ -114,7 +114,7 @@ The conference will be performed as a hybrid event (offline and online). Each tr
 
 *The offline participation* -- at ITMO University, (Saint-Petersburg, Kronverksky Ave. 49).
     - Each track of each day will have a single room. 
-    - You will need a pass to enter the ITMO University building. If you do not have it already, contact us by email (<mr@itmo.ru>), telegram (<https://t.me/MICSECS_chat>), or phone (+7-952-239-04-63).
+    - You will need a pass to enter the ITMO University building. If you do not have it already, contact us by email (<mr@itmo.ru>), telegram (<https://t.me/MICSECS_chat>), or phone ([+7-952-239-04-63](tel:79522390463)).
     - Be aware that the traditional entrance is closed on renovation, so the actual entrance is from Kronverksky Ave.).
     - The event is held in compliance with sanitary and epidemiological standards. We will provide medical masks, antiseptic wipes, and antiseptics for all participants.
 
