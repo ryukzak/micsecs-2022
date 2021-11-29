@@ -4,6 +4,8 @@ title: Conference Program
 ---
 
 <strong> preliminary version </strong>
+<a href="https://itmo.ru/ru/" Target="_blank"><Img src="/assets/images/itmo_logo_horiz_white_en.png" Width="230" Height="50"> </a>
+<a href="https://masterdata.ru/about/" Target="_blank"><Img src="/assets/images/logo-blue-1.png" Width="200" Height="50"> </a>
 
 ## Schedule
 
