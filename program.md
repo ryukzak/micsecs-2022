@@ -255,12 +255,12 @@ Chair: (soon)
     by Tatyana Zikratova, Igor Zikratov, Pavel Belyaev and Evgenii Neverov <span class="bdg">en</span>
 2. <!--RaD en--> [82] Model of a Unified Description of the Organization of a Computing System \\
     by Yaroslav Gorbachev <span class="bdg">en</span>
-3. <!--RaD en--> [6] Estimation Frequency of Multi-Sinusoidal Signals \\
-    by Khac Tung Nguyen and Sergey. M Vlasov <span class="bdg">en</span>
 4. <!--WIP en--> [64] Cyber Physical System: Concept, Security Issues and Applications \\
     by Rahul Johari, Riya Bhatia, Sapna Chaudhary and Shrey Gupta <span class="bdg">en</span>
 5. <!--WIP en--> [42] Development of a Potentiostat Based on the ESP32 Microcontroller \\
     by Ivan Kirilenko, Alexandr Nikolaev, Ekaterina Kosareva, Artemii Zenkin and Nikolay Nikolaev <span class="bdg">en</span>
+3. <!--RaD en--> [6] Estimation Frequency of Multi-Sinusoidal Signals \\
+    by Khac Tung Nguyen and Sergey. M Vlasov <span class="bdg">ru</span>
 
 ### Multimedia & Computer Graphics #2
 
@@ -273,12 +273,12 @@ Chair: (soon)
     by Dmitriy Nakhabin, David Berzon and Andrey Karsakov <span class="bdg">en</span> <span class="bdg">long</span>
 1. <!--RaD en--> [70] GPU-Accelerated for ArUco Marker Detection Task \\
     by Roman Bugryshev, Anna Grigoreva and Alexander Mezhenin <span class="bdg">en</span> <span class="bdg">long</span>
-2. <!--RaD both--> [47] Method of Visualization of Background Illumination Sources in Optical Devices Forming an Image \\
-    by Igor Kinev, Dmitry Zhdanov, Andrei Zhdanov and Igor Potemin <span class="bdg">en</span>
 3. <!--RaD en--> [27] Comparison of Modified Hybrid Object Detected Graph Cut and Hybrid Ant Colony Optimization - k-means methods for MRI images segmentation \\
     by Samer El-Khatib, Yuri Skobtsov and Sergey Rodzin <span class="bdg">en</span>
 4. <!--RaD en--> [63] Creating a Hybrid System to Connect the Brain-Computer Interface with the Virtualreality Environment \\
     by Danil Shepelev, Anton Saevsky, Igor Shepelev, Valery Kiroy, Dmitry Lazurenko and Dmitry Shaposhnikov <span class="bdg">en</span>
+2. <!--RaD both--> [47] Method of Visualization of Background Illumination Sources in Optical Devices Forming an Image \\
+    by Igor Kinev, Dmitry Zhdanov, Andrei Zhdanov and Igor Potemin <span class="bdg">ru</span>
 5. <!--WIP ru--> [30] Spatial Hashing in a Gradient Refractive Index Media \\
     by Andrew Lemeshev <span class="bdg">ru</span>
 
