@@ -337,7 +337,7 @@ Track: 1 (auditorium number: (soon), Zoom meeting: (soon)) \\
 Chair: (soon)
 
 1. <!--RaD both--> [12] Improving the Segmentation of the Russian Building Code texts with Meta-Learning \\
-    by Ildar Baimuratov, Ivan Shilin, Dmitrii Pliukhin and Denis Turygin <span class="bdg">en</span> <span class="bdg">long</span>
+    by Ildar Baimuratov, Ivan Shilin, Dmitrii Pliukhin, Denis Turygin and Dmitry Mouromtsev <span class="bdg">en</span> <span class="bdg">long</span>
 1. <!--RaD en--> [23] Analyzing the time of Bell Inequality Test for Information Retrieval \\
     by Alaa Aldarf, Alaa Shaker and Igor Bessmertny <span class="bdg">en</span> <span class="bdg">long</span>
 1. <!--RaD en--> [18] Using LSTM and GRU With a New Dataset for Named Entity Recognition in the Arabic Language \\
