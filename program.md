@@ -37,7 +37,7 @@ title: Conference Program
   </tr>
   <tr>
     <td class="tg-baqh">10:30-12:00</td>
-    <td class="tg-baqh" colspan="2">Oleg Lapshin (MasterData)<br>IT industries and specializations: where is the market going, who needs lowcode platforms and why?</td>
+    <td class="tg-baqh" colspan="2">Oleg Lapshin (Masterdata)<br>IT industries and specializations: where is the market going, who needs lowcode platforms and why?</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12:00-13:30</td>
@@ -46,7 +46,7 @@ title: Conference Program
   </tr>
   <tr>
     <td class="tg-c3ow">14:00-15:30</td>
-    <td class="tg-c3ow" colspan="2">Олег Лапшин, Александр Гриценко (MasterData)<br>Погружение в RPA-технологии</td>
+    <td class="tg-c3ow" colspan="2">Олег Лапшин, Александр Гриценко (Masterdata)<br>Погружение в RPA-технологии</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:30-17:00</td>
@@ -166,10 +166,12 @@ Chair: (soon)
 ### Computer Systems & Networks Engineering
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
-Time: 12:00-13:30 \\
+Time: 12:00-13:45 \\
 Track: 2 (auditorium number: (soon), Zoom meeting: (soon)) \\
 Chair: (soon)
 
+1. Using RPA as Technology Bridge for Digital Transformation\\
+    by guest Aleksandr Gritsenko <span class="bdg">en</span> <span class="bdg">long</span> 
 1. <!--RaD en--> [19] About Usage of LDPC Codes in Gilbert Channel \\
     by Anna Fominykh, Alina Veresova and Andrei Ovchinnikov <span class="bdg">en</span> <span class="bdg">long</span>
 1. <!--RaD both--> [8] Methods of Monitoring the Use of Means of Protection in Infocommunication Systems \\
@@ -187,7 +189,7 @@ Chair: (soon)
 
 ### Masterclass: Погружение в RPA-технологии
 
-Speakers: Олег Лапшин, Александр Гриценко (masterdata)
+Speakers: Олег Лапшин, Александр Гриценко (Masterdata)
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 14:00-15:30 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
@@ -248,8 +250,6 @@ Time: 11:00-12:30 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon)) \\
 Chair: (soon)
 
-1. Using RPA as Technology Bridge for Digital Transformation\\
-    by guest Aleksandr Gricenko <span class="bdg">en</span> <span class="bdg">long</span> 
 1. <!--RaD en--> [13] Probability Assessments for Voltage Values of Network with Distribution Generation \\
     by Dmitriy Kim, Georgi Georgiev and Natalya Markovskaya <span class="bdg">en</span> <span class="bdg">long</span> 
 1. <!--RaD en--> [67] Group Control of Multi-Agent Robotics Systems Under the Influence of Destabilizing Factors \\
