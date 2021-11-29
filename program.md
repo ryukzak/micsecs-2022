@@ -169,8 +169,6 @@ Time: 12:00-13:30 \\
 Track: 2 (auditorium number: (soon), Zoom meeting: (soon)) \\
 Chair: (soon)
 
-1. <!--RaD en--> [32] Difficulties in Implementing a Heavy-Tailed Distribution using the Example of the Pareto Distribution in Modeling Network Traffic \\
-    by Tatiana Tatarnikova and Oleg Kutuzov <span class="bdg">en</span> <span class="bdg">long</span>
 1. <!--RaD en--> [19] About Usage of LDPC Codes in Gilbert Channel \\
     by Anna Fominykh, Alina Veresova and Andrei Ovchinnikov <span class="bdg">en</span> <span class="bdg">long</span>
 1. <!--RaD both--> [8] Methods of Monitoring the Use of Means of Protection in Infocommunication Systems \\
@@ -183,6 +181,8 @@ Chair: (soon)
     by Vladimir Bogatyrev, Stanislav Bogatyrev and Аnatoly Bogatyrev <span class="bdg">en</span>
 1. <!--WIP en--> [58] Multipath redundant transmission with traffic hetero-geneity in terms of the criticality of network delays \\
     by Vladimir Bogatyrev, Stanislav Bogatyrev and Anatoly Bogatyrev <span class="bdg">en</span>
+1. <!--RaD en--> [32] Difficulties in Implementing a Heavy-Tailed Distribution using the Example of the Pareto Distribution in Modeling Network Traffic \\
+    by Tatiana Tatarnikova and Oleg Kutuzov <span class="bdg">ru</span>
 
 ### Masterclass: Погружение в RPA-технологии
 
@@ -297,10 +297,10 @@ Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
     by Aleksei Katridi and Yuri Fedosov <span class="bdg">en</span> <span class="bdg">long</span>
 1. <!--RaD en--> [35] Visual Components of Network Сommunications in Distance Learning \\
     by Anastasiia Luneva, Aleksandr Volosiuk, Aleksei Lavrov, Dmitrii Makhlai, Veronika C <span class="bdg">en</span>herneva and Vladimir Lokalov
-1. <!--WIP en--> [29] Applying Machine Learning Methods to Detect IoT Attacks \\
-    by Tatiana Tatarnikova and Pavel Bogdanov <span class="bdg">en</span>
 1. <!--WIP en--> [45] Energy consumption estimation model for information transmission in a networked cyber-kinematic system \\
     by Tatyana Astakhova and Mikhail Kolbanyov <span class="bdg">en</span>
+1. <!--WIP en--> [29] Applying Machine Learning Methods to Detect IoT Attacks \\
+    by Tatiana Tatarnikova and Pavel Bogdanov <span class="bdg">ru</span>
 1. <!--RaD ru--> [81] Cross-level mechanisms, microarchitectural patterns, and aspect-level models in embedded systems design \\
     by Maxim Kolchurin, Vasiliy Pinkevich and Alexey Platunov <span class="bdg">ru</span>
 1. <!--RaD ru--> [40] Designing a Visual Data Sonification System for Navigation of Visually Impaired People \\
