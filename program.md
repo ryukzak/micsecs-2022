@@ -128,7 +128,7 @@ For any questions, feel free to contact us by email (<mr@itmo.ru>) or telegram (
 - A presentation time on sections is 10 minutes (7 for speech, 3 for discussion).
 - A long presentation (marked as "long" in the schedule below) time on sections is 15 minutes (10 for speech, 5 for discussion).
 - Presentation language marked in the schedule below, but we hold opportunity to change your language by a section chair if that allow to improve the conference expirience (e.g., all listeners are familiar with Russian language).
-- Presentation template: bright background, dark and contrast text. Widescreen template preferable.
+- Presentation template: bright background, dark and contrast text. Widescreen template preferable. The English language for text on slides is required.
 
 ## Thu. 2 Dec. 2021 (Day 1)
 
@@ -152,8 +152,6 @@ Time: 12:00-13:30 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon)) \\
 Chair: (soon)
 
-1. <!--RaD en--> [50] Building a Tree of Perception Control Planning Using Branch and Bound Optimization \\
-    by Aleksandr Khodos, Michail Panteleyev and Mikhail Zolotukhin <span class="bdg">en</span> <span class="bdg">long</span>
 2. <!--RaD en--> [55] Comparison of Fraudulent Transaction Detection Methods for Big Data Systems \\
     by Denis Roenko, Maksim Zykin, Maksim Fedosenko, Vladislav Perfilev and Alexander Menshchikov <span class="bdg">en</span> <span class="bdg">long</span>
 3. <!--RaD en--> [60] String-based and Graph-based Genotype Representations for Evolutionary Differential Equations Discovery on an Example of the Heat Equation \\
@@ -162,6 +160,8 @@ Chair: (soon)
     by Alexey Subbotin and Nataly Zhukova <span class="bdg">en</span>
 5. <!--WIP both--> [10] Improving the Efficiency of Forecasting Sports Events using a Cascade of Neural Networks \\
     by Vasily Meltsov, Alexander Krutikov and Nataly Zhukova <span class="bdg">en</span>
+1. <!--RaD en--> [50] Building a Tree of Perception Control Planning Using Branch and Bound Optimization \\
+    by Aleksandr Khodos, Michail Panteleyev and Mikhail Zolotukhin <span class="bdg">ru</span>
 
 ### Computer Systems & Networks Engineering
 
@@ -320,14 +320,14 @@ Chair: (soon)
     by Ayush Bhardwaj, Gaurav Mishra and Kaushlendra Pratap <span class="bdg">en</span> <span class="bdg">long</span> 
 1. <!--RaD en--> [61] Toward Problems of Non-deterministic Discrete-event Systems Multithreaded Simulating \\
     by Arthur Lazdin and Anastasiia Smirnova <span class="bdg">en</span>
-1. <!--RaD en--> [57] Method of Multithreaded Processing of Message Authentication Codes based on Cellular Automata \\
-    by Elena Kuleshova, Maxim Tanygin, Anatoly Marukhlenko, Vyacheslav Dobritsa and Vladislav Selin <span class="bdg">en</span>
 1. <!--WIP en--> [33] Research of voice recognition technologies in conditions of various speech disorders \\
     by Artem Meinov and Alexandra Denisova <span class="bdg">en</span>
 1. <!--WIP en--> [74] The Tool for Automating Application Containerization With the Possibility to Expand the Used Technology Stack \\
     by Ekaterina Derbenyova and Elena Avksentieva <span class="bdg">en</span>
 1. <!--WIP both--> [71] Returning Extended Information about Errors Enclosed in the Result Object instead of Anticipated Exceptions in Java \\
     by Arthur Kupriyanov, Anton Gavrilov and Vladimir Nikolaev <span class="bdg">en</span>
+1. <!--RaD en--> [57] Method of Multithreaded Processing of Message Authentication Codes based on Cellular Automata \\
+    by Elena Kuleshova, Maxim Tanygin, Anatoly Marukhlenko, Vyacheslav Dobritsa and Vladislav Selin <span class="bdg">ru</span>
 
 ### Natural Language Processing
 
