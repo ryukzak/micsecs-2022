@@ -140,7 +140,7 @@ Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
 
 ### Keynote: IT industries and specializations: where is the market going, who needs lowcode platforms and why?
 
-Speaker: Oleg Lapshin (Pega)
+Speaker: Oleg Lapshin (Masterdata) \\
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 10:30-12:00 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
@@ -238,7 +238,7 @@ Chair: (soon)
 
 ### Keynote: Интеграция команды в себя, как работает незрячий DevOps инженер?
 
-Speaker: Евгений Некрасов (Университет ИТМО)
+Speaker: Евгений Некрасов (Университет ИТМО) \\
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 10:15-11:00 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
@@ -285,7 +285,7 @@ Chair: (soon)
 
 ### Keynote: Трансгуманизм киборгизации, импланты и серая зона
 
-Speaker: Евгений Некрасов (Университет ИТМО)
+Speaker: Евгений Некрасов (Университет ИТМО) \\
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 13:00-13:30 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
