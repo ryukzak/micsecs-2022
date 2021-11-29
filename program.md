@@ -294,17 +294,17 @@ Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
 
 1. <!--RaD both--> [17] Analytical simulation modeling of the stability of the onboard control complex of a small spacecraft with changing operation modes \\
     by Aleksandr Pavlov, Dmitry Pavlov, Aleksandr Umarov and Andrey Gordeev <span class="bdg">en</span> <span class="bdg">long</span>
-1. <!--RaD both--> [68] Computer Voice Control for CNC Machine using Natural Language Processing \\
+2. <!--RaD both--> [68] Computer Voice Control for CNC Machine using Natural Language Processing \\
     by Aleksei Katridi and Yuri Fedosov <span class="bdg">en</span> <span class="bdg">long</span>
-1. <!--RaD en--> [35] Visual Components of Network Сommunications in Distance Learning \\
-    by Anastasiia Luneva, Aleksandr Volosiuk, Aleksei Lavrov, Dmitrii Makhlai, Veronika C <span class="bdg">en</span>herneva and Vladimir Lokalov
-1. <!--WIP en--> [45] Energy consumption estimation model for information transmission in a networked cyber-kinematic system \\
+3. <!--RaD en--> [35] Visual Components of Network Сommunications in Distance Learning \\
+    by Anastasiia Luneva, Aleksandr Volosiuk, Aleksei Lavrov, Dmitrii Makhlai, Veronika Cherneva and Vladimir Lokalov <span class="bdg">en</span>
+4. <!--WIP en--> [45] Energy consumption estimation model for information transmission in a networked cyber-kinematic system \\
     by Tatyana Astakhova and Mikhail Kolbanyov <span class="bdg">en</span>
-1. <!--WIP en--> [29] Applying Machine Learning Methods to Detect IoT Attacks \\
+5. <!--WIP en--> [29] Applying Machine Learning Methods to Detect IoT Attacks \\
     by Tatiana Tatarnikova and Pavel Bogdanov <span class="bdg">ru</span>
-1. <!--RaD ru--> [81] Cross-level mechanisms, microarchitectural patterns, and aspect-level models in embedded systems design \\
+6. <!--RaD ru--> [81] Cross-level mechanisms, microarchitectural patterns, and aspect-level models in embedded systems design \\
     by Maxim Kolchurin, Vasiliy Pinkevich and Alexey Platunov <span class="bdg">ru</span>
-1. <!--RaD ru--> [40] Designing a Visual Data Sonification System for Navigation of Visually Impaired People \\
+7. <!--RaD ru--> [40] Designing a Visual Data Sonification System for Navigation of Visually Impaired People \\
     by Timofey Anisimov <span class="bdg">ru</span>
 
 ### Software Engineering #1
