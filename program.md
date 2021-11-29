@@ -39,7 +39,7 @@ title: Conference Program
   </tr>
   <tr>
     <td class="tg-baqh">10:30-12:00</td>
-    <td class="tg-baqh" colspan="2">Oleg Lapshin (Pega)<br>IT industries and specializations: where is the market going, who needs lowcode platforms and why?</td>
+    <td class="tg-baqh" colspan="2">Oleg Lapshin (MasterData)<br>IT industries and specializations: where is the market going, who needs lowcode platforms and why?</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12:00-13:30</td>
@@ -48,7 +48,7 @@ title: Conference Program
   </tr>
   <tr>
     <td class="tg-c3ow">14:00-15:30</td>
-    <td class="tg-c3ow" colspan="2">Олег Лапшин, Александр Гриценко (masterdata)<br>Погружение в RPA-технологии</td>
+    <td class="tg-c3ow" colspan="2">Олег Лапшин, Александр Гриценко (MasterData)<br>Погружение в RPA-технологии</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:30-17:00</td>
