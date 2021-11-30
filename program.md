@@ -171,7 +171,7 @@ Track: 2 (auditorium number: (soon), Zoom meeting: (soon)) \\
 Chair: (soon)
 
 1. Using RPA as Technology Bridge for Digital Transformation\\
-    by guest Aleksandr Gritsenko <span class="bdg">en</span> <span class="bdg">long</span> 
+    by guest Aleksandr Gritsenko (Masterdata) <span class="bdg">en</span> <span class="bdg">long</span> 
 1. <!--RaD en--> [19] About Usage of LDPC Codes in Gilbert Channel \\
     by Anna Fominykh, Alina Veresova and Andrei Ovchinnikov <span class="bdg">en</span> <span class="bdg">long</span>
 1. <!--RaD both--> [8] Methods of Monitoring the Use of Means of Protection in Infocommunication Systems \\
