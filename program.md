@@ -150,7 +150,7 @@ Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 12:00-13:30 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon)) \\
-Chair: (soon)
+Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
 
 2. <!--RaD en--> [55] Comparison of Fraudulent Transaction Detection Methods for Big Data Systems \\
     by Denis Roenko, Maksim Zykin, Maksim Fedosenko, Vladislav Perfilev and Alexander Menshchikov <span class="bdg">en</span> <span class="bdg">long</span>
@@ -168,7 +168,7 @@ Chair: (soon)
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 12:00-13:45 \\
 Track: 2 (auditorium number: (soon), Zoom meeting: (soon)) \\
-Chair: (soon)
+Chair: [Igor Bessmertnyi (ITMO University)](https://scs.ifmo.ru/en/viewperson/106013/bessmertnyi-igor-aleksandrovich.htm)
 
 1. Using RPA as Technology Bridge for Digital Transformation\\
     by guest Aleksandr Gritsenko (Masterdata) <span class="bdg">en</span> <span class="bdg">long</span> 
@@ -199,7 +199,7 @@ Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 15:30-17:00 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon)) \\
-Chair: (soon)
+Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
 
 2. <!--RaD en--> [11] Automation of Machine Learning Pipeline Design by an Ontology as an Accumulative Meta-Learning Model \\
     by Maxim Aliev and Ildar Baimuratov <span class="bdg">en</span> <span class="bdg">long</span>
@@ -219,7 +219,8 @@ Chair: (soon)
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 15:30-17:00 \\
 Track: 2 (auditorium number: (soon), Zoom meeting: (soon)) \\
-Chair: (soon)
+Chair: [Igor Potemin (ITMO University)](https://scs.ifmo.ru/en/viewperson/197890/potemin-igor-stanislavovich.htm) \\
+Co-Chair: [Andrei Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/126471/zhdanov-andrei-dmitrievich.htm)
 
 1. <!--RaD en--> [25] Speech Source Separation Based on Dual - Microphone System \\
     by Trong The Quan and Tuan Anh Pham <span class="bdg">en</span> <span class="bdg">long</span> 
@@ -248,7 +249,7 @@ Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 11:00-12:30 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon)) \\
-Chair: (soon)
+Chair: [Aleksei Platunov (ITMO University)](https://scs.ifmo.ru/en/viewperson/100053/platunov-aleksei-evgenevich.htm)
 
 1. <!--RaD en--> [13] Probability Assessments for Voltage Values of Network with Distribution Generation \\
     by Dmitriy Kim, Georgi Georgiev and Natalya Markovskaya <span class="bdg">en</span> <span class="bdg">long</span> 
@@ -268,7 +269,7 @@ Chair: (soon)
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 11:00-12:30 \\
 Track: 2 (auditorium number: (soon), Zoom meeting: (soon)) \\
-Chair: (soon)
+Chair: [Dmitrii Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/164389/zhdanov-dmitrii-dmitrievich.htm)
 
 1. <!--RaD both--> [48] Sound Source Localization for Augmented Realityenvironment \\
     by Dmitriy Nakhabin, David Berzon and Andrey Karsakov <span class="bdg">en</span> <span class="bdg">long</span>
@@ -292,6 +293,11 @@ Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
 
 ### Cyber-Physical Systems & Internet of Things #2
 
+Date: Fri. 3 Dec. 2021 (Day 2) \\
+Time: 13:30-15:00 \\
+Track: 1 (auditorium number: (soon), Zoom meeting: (soon)) \\
+Chair: [Vasiliy Pinkevich (ITMO University)](https://scs.ifmo.ru/en/viewperson/149216/pinkevich-vasiliy.htm)
+
 1. <!--RaD both--> [17] Analytical simulation modeling of the stability of the onboard control complex of a small spacecraft with changing operation modes \\
     by Aleksandr Pavlov, Dmitry Pavlov, Aleksandr Umarov and Andrey Gordeev <span class="bdg">en</span> <span class="bdg">long</span>
 2. <!--RaD both--> [68] Computer Voice Control for CNC Machine using Natural Language Processing \\
@@ -312,7 +318,7 @@ Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 13:30-15:00 \\
 Track: 2 (auditorium number: (soon), Zoom meeting: (soon)) \\
-Chair: (soon)
+Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728/ilina-aglaia-gennadevna.htm)
 
 1. <!--RaD en--> [16] Efficiency of gRPC Framework for Inter-Service Communication \\
     by Alexey Novopashin and Ilya Gosudarev <span class="bdg">en</span> <span class="bdg">long</span> 
@@ -334,7 +340,7 @@ Chair: (soon)
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 15:30-17:00 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon)) \\
-Chair: (soon)
+Chair: [Iuliia Koroleva (ITMO University)](https://scs.ifmo.ru/en/viewperson/149604/koroleva-iuliia-aleksandrovna.htm)
 
 1. <!--RaD both--> [12] Improving the Segmentation of the Russian Building Code texts with Meta-Learning \\
     by Ildar Baimuratov, Ivan Shilin, Dmitrii Pliukhin, Denis Turygin and Dmitry Mouromtsev <span class="bdg">en</span> <span class="bdg">long</span>
@@ -356,7 +362,7 @@ Chair: (soon)
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 15:30-17:00 \\
 Track: 2 (auditorium number: (soon), Zoom meeting: (soon)) \\
-Chair: (soon)
+Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728/ilina-aglaia-gennadevna.htm)
 
 1. <!--RaD en--> [69] Multi-Purpose Cloud-Based Compiler Based on Micro-Service Architecture and Container Orchestration \\
     by Sayed Moeid Heidari and Alexey Alexandrovich Paznikov <span class="bdg">en</span> <span class="bdg">long</span>
