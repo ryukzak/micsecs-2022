@@ -389,7 +389,21 @@ Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 17:00-18:00 \\
 Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
 
-Program of student colloquium will be published soon.
+- Blockchain enabled secure technology in healthcare management system
+    by Harsha Aggarwal (GGSIPU, India, Delhi) <span class="bdg">en</span>
+- XMILE Support for NITTA CAD
+    by Artur Gogiyan (ITMO University, Russia, Saint-Petersburg) <span class="bdg">en</span>
+- Vulnerability Analysis in BlockChain Technology
+    by Himesh Nayak (University School Of Information Communication and Technology, India, Delhi) <span class="bdg">en</span>
+- VR Application for Vestibluar System Training
+    by Daria Plotnikova (ITMO University, Russia, Saint-Petersburg) <span class="bdg">en</span>
+
+- Визуализация междисциплинарных медицинских исследований и их восприятие
+    by Дарья Филипова (ITMO University, Russia, Saint-Petersburg) <span class="bdg">ru</span>
+- Разработка операционной системы как способ полного понимания её теории
+    by Евгений Лазурин и Сергей Фёдоров (ITMO University, Russia, Saint-Petersburg) <span class="bdg">ru</span>
+- Инструменты по распознаванию речи офлайн для Android
+    by Ganeev Rustam (ITMO University, Russia, Saint-Petersburg) <span class="bdg">ru</span>
 
 ### Close Ceremony
 
