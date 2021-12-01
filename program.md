@@ -210,7 +210,7 @@ Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/22
 4. <!--WIP en--> [4] Experience in Applying Machine Learning Methods in Optical Design \\
     by Irina Livshits, Alex Petukhov, Jyrki Saarinen and Oliver Faehnle <span class="bdg">en</span>
 5. <!--WIP ru--> [15] Cognitive Approach to Solving the Euler Problem \\
-    by Polyakov Vladimir <span class="bdg">ru</span>
+    by Vladimir Skorubskii, Vladimir Polyakov  <span class="bdg">ru</span>
 <!-- - REJECT? en 76 Neurotafl Software and Hardware System for Inclusive Research \\
     by Alena Dzhumagulova, Artem Smolin, Juri Didevich, Andrei Balkanskii, Anna Spiridonova and Larisa Sopronenko -->
 
