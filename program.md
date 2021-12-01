@@ -3,8 +3,6 @@ layout: post
 title: Conference Program
 ---
 
-<strong> preliminary version </strong>
-
 ## Schedule
 
 <style type="text/css">
