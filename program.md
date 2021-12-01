@@ -136,14 +136,14 @@ For any questions, feel free to contact us by email (<mr@itmo.ru>) or telegram (
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 10:00 \\
-Track: 1 (auditorium number: (soon), Zoom meeting: (soon))
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon))
 
 ### Keynote: IT industries and specializations: where is the market going, who needs lowcode platforms and why?
 
 Speaker: Oleg Lapshin (Masterdata) \\
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 10:30-12:00 \\
-Track: 1 (auditorium number: 431a, Zoom meeting: (soon))
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon))
 
 ### Artificial Intelligence, Machine Learning #1
 
@@ -192,13 +192,13 @@ Chair: [Igor Bessmertnyi (ITMO University)](https://scs.ifmo.ru/en/viewperson/10
 Speakers: Олег Лапшин, Александр Гриценко (Masterdata)
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 14:00-15:30 \\
-Track: 1 (auditorium number: 431a, Zoom meeting: (soon))
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon))
 
 ### Artificial Intelligence, Machine Learning #2
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 15:30-17:00 \\
-Track: 1 (auditorium number: 431a, Zoom meeting: (soon)) \\
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon)) \\
 Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
 
 2. <!--RaD en--> [11] Automation of Machine Learning Pipeline Design by an Ontology as an Accumulative Meta-Learning Model \\
@@ -242,13 +242,13 @@ Co-Chair: [Andrei Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/1
 Speaker: Евгений Некрасов (Университет ИТМО) \\
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 10:15-11:00 \\
-Track: 1 (auditorium number: 431a, Zoom meeting: (soon))
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon))
 
 ### Cyber-Physical Systems & Internet of Things #1
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 11:00-12:30 \\
-Track: 1 (auditorium number: 431a, Zoom meeting: (soon)) \\
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon)) \\
 Chair: [Aleksei Platunov (ITMO University)](https://scs.ifmo.ru/en/viewperson/100053/platunov-aleksei-evgenevich.htm)
 
 1. <!--RaD en--> [13] Probability Assessments for Voltage Values of Network with Distribution Generation \\
@@ -289,13 +289,13 @@ Chair: [Dmitrii Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/164
 Speaker: Евгений Некрасов (Университет ИТМО) \\
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 13:00-13:30 \\
-Track: 1 (auditorium number: 431a, Zoom meeting: (soon))
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon))
 
 ### Cyber-Physical Systems & Internet of Things #2
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 13:30-15:00 \\
-Track: 1 (auditorium number: 431a, Zoom meeting: (soon)) \\
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon)) \\
 Chair: [Vasiliy Pinkevich (ITMO University)](https://scs.ifmo.ru/en/viewperson/149216/pinkevich-vasiliy.htm)
 
 1. <!--RaD both--> [17] Analytical simulation modeling of the stability of the onboard control complex of a small spacecraft with changing operation modes \\
@@ -339,7 +339,7 @@ Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 15:30-17:00 \\
-Track: 1 (auditorium number: 431a, Zoom meeting: (soon)) \\
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon)) \\
 Chair: [Iuliia Koroleva (ITMO University)](https://scs.ifmo.ru/en/viewperson/149604/koroleva-iuliia-aleksandrovna.htm)
 
 1. <!--RaD both--> [12] Improving the Segmentation of the Russian Building Code texts with Meta-Learning \\
@@ -389,7 +389,7 @@ Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 17:00-18:00 \\
-Track: 1 (auditorium number: 431a, Zoom meeting: (soon))
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon))
 
 - Blockchain enabled secure technology in healthcare management system
     by Harsha Aggarwal (GGSIPU, India, Delhi) <span class="bdg">en</span>
@@ -411,4 +411,4 @@ Track: 1 (auditorium number: 431a, Zoom meeting: (soon))
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 18:30 \\
-Track: 1 (auditorium number: 431a, Zoom meeting: (soon))
+Track: 1 (auditorium number: 431а, Zoom meeting: (soon))
