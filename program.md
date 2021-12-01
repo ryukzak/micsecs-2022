@@ -277,6 +277,8 @@ Chair: [Dmitrii Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/164
     by Samer El-Khatib, Yuri Skobtsov and Sergey Rodzin <span class="bdg">en</span>
 4. <!--RaD en--> [63] Creating a Hybrid System to Connect the Brain-Computer Interface with the Virtualreality Environment \\
     by Danil Shepelev, Anton Saevsky, Igor Shepelev, Valery Kiroy, Dmitry Lazurenko and Dmitry Shaposhnikov <span class="bdg">en</span>
+3. <!--RaD en--> [35] Visual Components of Network Сommunications in Distance Learning \\
+    by Anastasiia Luneva, Aleksandr Volosiuk, Aleksei Lavrov, Dmitrii Makhlai, Veronika Cherneva and Vladimir Lokalov <span class="bdg">en</span>
 2. <!--RaD both--> [47] Method of Visualization of Background Illumination Sources in Optical Devices Forming an Image \\
     by Igor Kinev, Dmitry Zhdanov, Andrei Zhdanov and Igor Potemin <span class="bdg">ru</span>
 5. <!--WIP ru--> [30] Spatial Hashing in a Gradient Refractive Index Media \\
@@ -300,8 +302,6 @@ Chair: [Vasiliy Pinkevich (ITMO University)](https://scs.ifmo.ru/en/viewperson/1
     by Aleksandr Pavlov, Dmitry Pavlov, Aleksandr Umarov and Andrey Gordeev <span class="bdg">en</span> <span class="bdg">long</span>
 2. <!--RaD both--> [68] Computer Voice Control for CNC Machine using Natural Language Processing \\
     by Aleksei Katridi and Yuri Fedosov <span class="bdg">en</span> <span class="bdg">long</span>
-3. <!--RaD en--> [35] Visual Components of Network Сommunications in Distance Learning \\
-    by Anastasiia Luneva, Aleksandr Volosiuk, Aleksei Lavrov, Dmitrii Makhlai, Veronika Cherneva and Vladimir Lokalov <span class="bdg">en</span>
 4. <!--WIP en--> [45] Energy consumption estimation model for information transmission in a networked cyber-kinematic system \\
     by Tatyana Astakhova and Mikhail Kolbanyov <span class="bdg">en</span>
 5. <!--WIP en--> [29] Applying Machine Learning Methods to Detect IoT Attacks \\
