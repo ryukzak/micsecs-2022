@@ -387,7 +387,9 @@ Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 17:00-18:00 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
+Track: 1 (Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
+
+The student colloquium will be performed in an online-only way. If you require a workspace at ITMO University, please, contact us, and we will provide it.
 
 - Blockchain enabled secure technology in healthcare management system
     by Harsha Aggarwal (GGSIPU, India, Delhi) <span class="bdg">en</span>
