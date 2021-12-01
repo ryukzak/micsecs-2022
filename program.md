@@ -368,6 +368,8 @@ Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728
     by Sayed Moeid Heidari and Alexey Alexandrovich Paznikov <span class="bdg">en</span> <span class="bdg">long</span>
 1. <!--WIP both--> [56] Comparison of template engines and React server-side rendering performance \\
     by Dmitrii Fitisov and Ilya Gosudarev <span class="bdg">en</span> <span class="bdg">long</span>
+1. <!--RaD both --> [49] Research of the Characteristics of Functioning of a Cloud System with a Non-Uniform Load
+    by Sodnom Z. Lygdenov <span class="bdg">en</span>
 1. <!--WIP en--> [34] Usability Testing of the DanfossCAD Interface for the Optimized Work in AutoCAD \\
     by Vladislava Nikolaeva, Daria Lee, Andrei Balkanskii and Artem Smolin <span class="bdg">en</span>
 1. <!--WIP en --> [78] Combining Methods for Identifying Insiders of Large Information Systems
