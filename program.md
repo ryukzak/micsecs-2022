@@ -370,12 +370,12 @@ Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728
     by Dmitrii Fitisov and Ilya Gosudarev <span class="bdg">en</span> <span class="bdg">long</span>
 1. <!--WIP en--> [34] Usability Testing of the DanfossCAD Interface for the Optimized Work in AutoCAD \\
     by Vladislava Nikolaeva, Daria Lee, Andrei Balkanskii and Artem Smolin <span class="bdg">en</span>
-1. <!--WIP en--> [44] Modern Front-End State Management Efficiency Evaluation \\
-    by Petr Baranov and Ilya Gosudarev <span class="bdg">en</span>
 1. <!--WIP en --> [78] Combining Methods for Identifying Insiders of Large Information Systems
-    by Nikita Romanov, Dmitry Vlasov, Konstantin Izrailov and Mikhail Buinevich
+    by Nikita Romanov, Dmitry Vlasov, Konstantin Izrailov and Mikhail Buinevich <span class="bdg">en</span>
 1. <!--RaD ru--> [22] Parallel Algorithms for Fuzzing Testing of Multithreaded Applications based on Google Thread Sanitizer \\
     by Oleg Doronin <span class="bdg">ru</span>
+1. <!--WIP en--> [44] Modern Front-End State Management Efficiency Evaluation \\
+    by Petr Baranov and Ilya Gosudarev <span class="bdg">ru</span>
 1. <!--WIP ru--> [75] Generalized Grammar Description Model \\
     by Elizaveta Kuzenkova, Iurii Korenkov, Ivan Loginov, Andrey Dergachev and Aglaya Gurianova <span class="bdg">ru</span>
 
