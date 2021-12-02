@@ -216,7 +216,7 @@ Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/22
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 15:30-17:00 \\
-Track: 2 (auditorium number: 431в, Youtube: [link](https://www.youtube.com/watch?v=YCrGV6F_67o), Zoom meeting: [link](https://itmo.zoom.us/j/84833688717?pwd=R0loMkFZcys1U3VIeHl2N2dGZ0o5Zz09)) \\
+Track: 2 (auditorium number: 431в, Youtube: [link](https://www.youtube.com/watch?v=jZop2bLn8eg), Zoom meeting: [link](https://itmo.zoom.us/j/84833688717?pwd=R0loMkFZcys1U3VIeHl2N2dGZ0o5Zz09)) \\
 Chair: [Igor Potemin (ITMO University)](https://scs.ifmo.ru/en/viewperson/197890/potemin-igor-stanislavovich.htm) \\
 Co-Chair: [Andrei Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/126471/zhdanov-andrei-dmitrievich.htm)
 
