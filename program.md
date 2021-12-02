@@ -134,20 +134,20 @@ For any questions, feel free to contact us by email (<mr@itmo.ru>) or telegram (
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 10:00 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09))
+Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09))
 
 ### Keynote: IT industries and specializations: where is the market going, who needs lowcode platforms and why?
 
 Speaker: Oleg Lapshin (Masterdata) \\
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 10:30-12:00 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09))
+Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09))
 
 ### Artificial Intelligence, Machine Learning #1
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 12:00-13:30 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09)) \\
+Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09)) \\
 Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
 
 2. <!--RaD en--> [55] Comparison of Fraudulent Transaction Detection Methods for Big Data Systems \\
@@ -190,13 +190,13 @@ Chair: [Igor Bessmertnyi (ITMO University)](https://scs.ifmo.ru/en/viewperson/10
 Speakers: Олег Лапшин, Александр Гриценко (Masterdata)
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 14:00-15:30 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09))
+Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09))
 
 ### Artificial Intelligence, Machine Learning #2
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 15:30-17:00 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09)) \\
+Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09)) \\
 Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
 
 2. <!--RaD en--> [11] Automation of Machine Learning Pipeline Design by an Ontology as an Accumulative Meta-Learning Model \\
