@@ -240,13 +240,13 @@ Co-Chair: [Andrei Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/1
 Speaker: Евгений Некрасов (Университет ИТМО) \\
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 10:15-11:00 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
+Track: 1 (auditorium number: 431а, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
 
 ### Cyber-Physical Systems & Internet of Things #1
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 11:00-12:30 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09)) \\
+Track: 1 (auditorium number: 431а, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09)) \\
 Chair: [Aleksei Platunov (ITMO University)](https://scs.ifmo.ru/en/viewperson/100053/platunov-aleksei-evgenevich.htm)
 
 1. <!--RaD en--> [13] Probability Assessments for Voltage Values of Network with Distribution Generation \\
@@ -289,13 +289,13 @@ Chair: [Dmitrii Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/164
 Speaker: Евгений Некрасов (Университет ИТМО) \\
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 13:00-13:30 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
+Track: 1 (auditorium number: 431а, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
 
 ### Cyber-Physical Systems & Internet of Things #2
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 13:30-15:00 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09)) \\
+Track: 1 (auditorium number: 431а, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09)) \\
 Chair: [Vasiliy Pinkevich (ITMO University)](https://scs.ifmo.ru/en/viewperson/149216/pinkevich-vasiliy.htm)
 
 1. <!--RaD both--> [17] Analytical simulation modeling of the stability of the onboard control complex of a small spacecraft with changing operation modes \\
@@ -315,7 +315,7 @@ Chair: [Vasiliy Pinkevich (ITMO University)](https://scs.ifmo.ru/en/viewperson/1
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 13:30-15:00 \\
-Track: 2 (auditorium number: 431в, Zoom meeting: [link](https://itmo.zoom.us/j/85099105838?pwd=a2JyRGlmem1pQm02V2xYOVJFV1hYZz09)) \\
+Track: 2 (auditorium number: 431в, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/85099105838?pwd=a2JyRGlmem1pQm02V2xYOVJFV1hYZz09)) \\
 Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728/ilina-aglaia-gennadevna.htm)
 
 1. <!--RaD en--> [16] Efficiency of gRPC Framework for Inter-Service Communication \\
@@ -359,7 +359,7 @@ Chair: [Iuliia Koroleva (ITMO University)](https://scs.ifmo.ru/en/viewperson/149
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 15:30-17:00 \\
-Track: 2 (auditorium number: 431в, Zoom meeting: [link](https://itmo.zoom.us/j/85099105838?pwd=a2JyRGlmem1pQm02V2xYOVJFV1hYZz09)) \\
+Track: 2 (auditorium number: 431в, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/85099105838?pwd=a2JyRGlmem1pQm02V2xYOVJFV1hYZz09)) \\
 Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728/ilina-aglaia-gennadevna.htm)
 
 1. <!--RaD en--> [69] Multi-Purpose Cloud-Based Compiler Based on Micro-Service Architecture and Container Orchestration \\
@@ -387,7 +387,7 @@ Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 17:00-18:00 \\
-Track: 1 (Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
+Track: 1 (Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
 
 The student colloquium will be performed in an online-only way. If you require a workspace at ITMO University, please, contact us, and we will provide it.
 
