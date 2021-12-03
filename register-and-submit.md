@@ -102,7 +102,7 @@ The section is held in rounds, each of which includes:
 
 1. Fast and dynamic speeches (pitches) of 4 participants in a row without interruptions to questions for 2 minutes each
 2. During the speech, the conference manager shows your project presentation. Say “Next slide” when you need it.
-    - The presentation should be submitted to the conference email (<mr@ifmo.ru>) in the `.pdf` format with the topic like `Colloquium: <Last name>`
+    - The presentation should be submitted to the conference email (<mr@itmo.ru>) in the `.pdf` format with the topic like `Colloquium: <Last name>`
     - The presentation size: two-four slides
 3. After the round is finished, speakers are assigned to a personal room (zoom breakout room). 4. Listeners can freely move between rooms by themself or with helping from conference managers.
 5. After 10 minutes of discussions, all participants return to the common room, and a new round begins.
