@@ -51,8 +51,10 @@ To participate in the conference with a research paper, you need to perform the 
     - Each author should have an ORCID identifier
     - Author Agreement to Publish a Contribution as Open-Access on CEUR-WS.org ([info](http://ceur-ws.org/HOWTOSUBMIT.html)):
         - [without copyrighted third party material](http://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12);
-        - [with copyrighted third party material](http://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12).
-
+        - [with copyrighted third party material](http://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12);
+        - Editors of the proceedings: Alexandr Penskoi, Pavel Kustarev, Elena Boldyreva
+        - Name and Year of the event: The 13th Majorov International Conference on Software Engineering and Computer Systems, 2021
+    - Only if you have ITMO affiliation, Expert Conclusion on the Publication Possibility (coming soon)
 
 ## Reports on Work in Progress or Pet Projects
 
@@ -89,7 +91,7 @@ To participate in the conference with a research paper, you need to perform the 
     - The camera-ready paper should include author names, affiliations, contact information, sponsors, and grant numbers. 
     - Each author should have an ORCID identifier
     - Copyright Transfer Agreement for Publication by ITMO University (coming soon)
-    - Expert Conclusion on the Publication Possibility (coming soon)
+    - Only if you have ITMO affiliation, Expert Conclusion on the Publication Possibility (coming soon)
 
 
 ## Student Colloquium
