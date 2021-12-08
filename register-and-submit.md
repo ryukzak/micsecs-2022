@@ -47,14 +47,17 @@ To participate in the conference with a research paper, you need to perform the 
     - If you need to update documents, you should do this by EasyChair in an existing submission. **You do not need to create a new submission!**
 2. Wait for the conclusion of the program committee. If your paper is accepted, participate in the conference.
 3. After participation, submit the camera-ready paper and legal documents:
-    - The camera-ready paper should include author names, affiliations, contact information, sponsors, and grant numbers. 
-    - Each author should have an ORCID identifier
+    - Your article designed according to the specified template, **in PDF format**
+      - The camera-ready paper should include author names, affiliations, contact information, sponsors, and grant numbers. 
+      - Each author should have an ORCID identifier
+    - **The source file** with the article (LaTeX-archive, docx). **ATTENTION: without the source file of the article, your article will not be accepted for publication**
     - Author Agreement to Publish a Contribution as Open-Access on CEUR-WS.org ([info](http://ceur-ws.org/HOWTOSUBMIT.html)):
         - [without copyrighted third party material](http://ceur-ws.org/ceur-author-agreement-ccby-ntp.pdf?ver=2021-02-12);
         - [with copyrighted third party material](http://ceur-ws.org/ceur-author-agreement-ccby-tp.pdf?ver=2021-02-12);
         - Editors of the proceedings: Alexandr Penskoi, Pavel Kustarev, Elena Boldyreva
         - Name and Year of the event: The 13th Majorov International Conference on Software Engineering and Computer Systems, 2021
-    - Only if you have ITMO affiliation, Expert Conclusion on the Publication Possibility (coming soon)
+        - **The location, date and signature on the copyright agreement must be STRICTLY IN THE SHADED SIGNATURE BLOCK**
+    - Only if you have ITMO affiliation, Expert Conclusion on the Publication Possibility (The Expert Conclusion is processed through the ISU system (Личный кабинет - Образование и наука - Экспертиза материалов)
 
 ## Reports on Work in Progress or Pet Projects
 
@@ -88,10 +91,14 @@ To participate in the conference with a research paper, you need to perform the 
     - If you need to update documents, you should do this by EasyChair in an existing submission. **You do not need to create a new submission!**
 2. Wait for the conclusion of the program committee. If your paper is accepted, participate in the conference.
 3. After participation, submit the camera-ready paper and legal documents:
-    - The camera-ready paper should include author names, affiliations, contact information, sponsors, and grant numbers. 
-    - Each author should have an ORCID identifier
-    - Copyright Transfer Agreement for Publication by ITMO University (coming soon)
-    - Only if you have ITMO affiliation, Expert Conclusion on the Publication Possibility (coming soon)
+    - Your article designed according to the specified template, **in PDF format**
+      - The camera-ready paper should include author names, affiliations, contact information, sponsors, and grant numbers. 
+      - Each author should have an ORCID identifier
+    - **The source file** with the article (LaTeX-archive, docx). **ATTENTION: without the source file of the article, your article will not be accepted for publication**
+    - Copyright Transfer Agreement for Publication by ITMO University [Download](https://github.com/ryukzak/micsecs-2021/blob/master/assets/pdfs/authors_rights.docx)
+    - **For ALL participants:** Expert Conclusion on the Publication Possibility 
+      - For ITMO University: The Expert Conclusion is processed through the ISU system (Личный кабинет - Образование и наука - Экспертиза материалов)
+      - For another authors - use please the template of your organization
 
 
 ## Student Colloquium
