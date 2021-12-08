@@ -95,7 +95,7 @@ To participate in the conference with a research paper, you need to perform the 
       - The camera-ready paper should include author names, affiliations, contact information, sponsors, and grant numbers. 
       - Each author should have an ORCID identifier
     - **The source file** with the article (LaTeX-archive, docx). **ATTENTION: without the source file of the article, your article will not be accepted for publication**
-    - Copyright Transfer Agreement for Publication by ITMO University [Download](https://github.com/ryukzak/micsecs-2021/blob/master/assets/pdfs/authors_rights.docx)
+    - Copyright Transfer Agreement for Publication by ITMO University [Download](https://disk.yandex.ru/i/6Tx_gZCvibW7kw)
     - **For ALL participants:** Expert Conclusion on the Publication Possibility 
       - For ITMO University: The Expert Conclusion is processed through the ISU system (Личный кабинет - Образование и наука - Экспертиза материалов)
       - For another authors - use please the template of your organization
