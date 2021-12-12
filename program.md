@@ -134,7 +134,7 @@ For any questions, feel free to contact us by email (<mr@itmo.ru>) or telegram (
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 10:00 \\
-Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09))
+Track: 1 (slides: [link](assets/pdfs/MICSECS_2021_open.pdf))
 
 ### Keynote: IT industries and specializations: where is the market going, who needs lowcode platforms and why?
 
@@ -411,4 +411,4 @@ The student colloquium will be performed in an online-only way. If you require a
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 18:30 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
+Track: 1 (slides: [link](assets/pdfs/MICSECS_2021_close.pdf))
