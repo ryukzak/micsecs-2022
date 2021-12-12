@@ -141,13 +141,13 @@ Track: 1 (slides: [link](assets/pdfs/MICSECS_2021_open.pdf))
 Speaker: Oleg Lapshin (Masterdata) \\
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 10:30-12:00 \\
-Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09))
+Track: 1 (record: [link](https://youtu.be/rUssUsf0KSY))
 
 ### Artificial Intelligence, Machine Learning #1
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 12:00-13:30 \\
-Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09)) \\
+Track: 1 (record: [link](https://youtu.be/zWjV6726yyA)) \\
 Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
 
 1. <!--RaD en--> [55] Comparison of Fraudulent Transaction Detection Methods for Big Data Systems \\
@@ -165,7 +165,7 @@ Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/22
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 12:00-13:45 \\
-Track: 2 (auditorium number: 431в, Youtube: [link](https://www.youtube.com/watch?v=YCrGV6F_67o), Zoom meeting: [link](https://itmo.zoom.us/j/84833688717?pwd=R0loMkFZcys1U3VIeHl2N2dGZ0o5Zz09)) \\
+Track: 2 (record: [link](https://youtu.be/7vP114wMdUo)) \\
 Chair: [Igor Bessmertnyi (ITMO University)](https://scs.ifmo.ru/en/viewperson/106013/bessmertnyi-igor-aleksandrovich.htm)
 
 1. Using RPA as Technology Bridge for Digital Transformation\\
@@ -190,13 +190,13 @@ Chair: [Igor Bessmertnyi (ITMO University)](https://scs.ifmo.ru/en/viewperson/10
 Speakers: Олег Лапшин, Александр Гриценко (Masterdata)
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 14:00-15:30 \\
-Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09))
+Track: 1 (record: [link](https://youtu.be/Nb4X83Wh9os))
 
 ### Artificial Intelligence, Machine Learning #2
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 15:30-17:00 \\
-Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09)) \\
+Track: 1 (record: [link](https://youtu.be/QnFNob7fJjE)) \\
 Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
 
 1. <!--RaD en--> [11] Automation of Machine Learning Pipeline Design by an Ontology as an Accumulative Meta-Learning Model \\
@@ -216,7 +216,7 @@ Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/22
 
 Date: Thu. 2 Dec. 2021 (Day 1) \\
 Time: 15:30-17:00 \\
-Track: 2 (auditorium number: 431в, Youtube: [link](https://www.youtube.com/watch?v=jZop2bLn8eg), Zoom meeting: [link](https://itmo.zoom.us/j/84833688717?pwd=R0loMkFZcys1U3VIeHl2N2dGZ0o5Zz09)) \\
+Track: 2 (record: [link](https://youtu.be/-n69fkTQjjY)) \\
 Chair: [Igor Potemin (ITMO University)](https://scs.ifmo.ru/en/viewperson/197890/potemin-igor-stanislavovich.htm) \\
 Co-Chair: [Andrei Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/126471/zhdanov-andrei-dmitrievich.htm)
 
@@ -240,13 +240,13 @@ Co-Chair: [Andrei Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/1
 Speaker: Евгений Некрасов (Университет ИТМО) \\
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 10:15-11:00 \\
-Track: 1 (auditorium number: 431а, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
+Track: 1 (record: [link](https://youtu.be/S9hIxPh5qwY))
 
 ### Cyber-Physical Systems & Internet of Things #1
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 11:00-12:30 \\
-Track: 1 (auditorium number: 431а, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09)) \\
+Track: 1 (record: [link](https://youtu.be/ghdl8f0-lDI)) \\
 Chair: [Aleksei Platunov (ITMO University)](https://scs.ifmo.ru/en/viewperson/100053/platunov-aleksei-evgenevich.htm)
 
 1. <!--RaD en--> [13] Probability Assessments for Voltage Values of Network with Distribution Generation \\
@@ -266,7 +266,7 @@ Chair: [Aleksei Platunov (ITMO University)](https://scs.ifmo.ru/en/viewperson/10
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 11:00-12:30 \\
-Track: 2 (auditorium number: 431в, Zoom meeting: [link](https://itmo.zoom.us/j/85099105838?pwd=a2JyRGlmem1pQm02V2xYOVJFV1hYZz09)) \\
+Track: 2 (record: [link](https://youtu.be/lCF7aCn5UmA)) \\
 Chair: [Dmitrii Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/164389/zhdanov-dmitrii-dmitrievich.htm)
 
 1. <!--RaD both--> [48] Sound Source Localization for Augmented Realityenvironment \\
@@ -289,13 +289,13 @@ Chair: [Dmitrii Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/164
 Speaker: Евгений Некрасов (Университет ИТМО) \\
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 13:00-13:30 \\
-Track: 1 (auditorium number: 431а, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
+Track: 1 (record: [link](https://youtu.be/M8pdBDb2PNE))
 
 ### Cyber-Physical Systems & Internet of Things #2
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 13:30-15:00 \\
-Track: 1 (auditorium number: 431а, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09)) \\
+Track: 1 (record: [link](https://youtu.be/dBVbCIc3x1U)) \\
 Chair: [Vasiliy Pinkevich (ITMO University)](https://scs.ifmo.ru/en/viewperson/149216/pinkevich-vasiliy.htm)
 
 1. <!--RaD both--> [17] Analytical simulation modeling of the stability of the onboard control complex of a small spacecraft with changing operation modes \\
@@ -315,7 +315,7 @@ Chair: [Vasiliy Pinkevich (ITMO University)](https://scs.ifmo.ru/en/viewperson/1
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 13:30-15:00 \\
-Track: 2 (auditorium number: 431в, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/85099105838?pwd=a2JyRGlmem1pQm02V2xYOVJFV1hYZz09)) \\
+Track: 2 (record: [link](https://youtu.be/OKzuGWGVReo)) \\
 Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728/ilina-aglaia-gennadevna.htm)
 
 1. <!--RaD en--> [16] Efficiency of gRPC Framework for Inter-Service Communication \\
@@ -337,7 +337,7 @@ Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 15:30-17:00 \\
-Track: 1 (auditorium number: 431а, Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09)) \\
+Track: 1 (record: [link](https://youtu.be/1EbYgs_zyso)) \\
 Chair: [Iuliia Koroleva (ITMO University)](https://scs.ifmo.ru/en/viewperson/149604/koroleva-iuliia-aleksandrovna.htm)
 
 1. <!--RaD both--> [12] Improving the Segmentation of the Russian Building Code texts with Meta-Learning \\
@@ -359,7 +359,7 @@ Chair: [Iuliia Koroleva (ITMO University)](https://scs.ifmo.ru/en/viewperson/149
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 15:30-17:00 \\
-Track: 2 (auditorium number: 431в, Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/85099105838?pwd=a2JyRGlmem1pQm02V2xYOVJFV1hYZz09)) \\
+Track: 2 (record: [link](https://youtu.be/FdNm7TCn5d4)) \\
 Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728/ilina-aglaia-gennadevna.htm)
 
 1. <!--RaD en--> [69] Multi-Purpose Cloud-Based Compiler Based on Micro-Service Architecture and Container Orchestration \\
@@ -387,7 +387,7 @@ Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728
 
 Date: Fri. 3 Dec. 2021 (Day 2) \\
 Time: 17:00-18:00 \\
-Track: 1 (Youtube: [link](http://www.youtube.com/watch?v=jWll0cAVcek), Zoom meeting: [link](https://itmo.zoom.us/j/81721944842?pwd=N1BUUEFMVUJwNHR1WFVrRGt2NVdCZz09))
+Track: 1 (record: [link](https://youtu.be/wr6_DD7-xCs))
 
 The student colloquium will be performed in an online-only way. If you require a workspace at ITMO University, please, contact us, and we will provide it.
 
