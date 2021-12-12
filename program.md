@@ -150,15 +150,15 @@ Time: 12:00-13:30 \\
 Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09)) \\
 Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
 
-2. <!--RaD en--> [55] Comparison of Fraudulent Transaction Detection Methods for Big Data Systems \\
+1. <!--RaD en--> [55] Comparison of Fraudulent Transaction Detection Methods for Big Data Systems \\
     by Denis Roenko, Maksim Zykin, Maksim Fedosenko, Vladislav Perfilev and Alexander Menshchikov <span class="bdg">en</span> <span class="bdg">long</span>
-3. <!--RaD en--> [60] String-based and Graph-based Genotype Representations for Evolutionary Differential Equations Discovery on an Example of the Heat Equation \\
+2. <!--RaD en--> [60] String-based and Graph-based Genotype Representations for Evolutionary Differential Equations Discovery on an Example of the Heat Equation \\
     by Vladislav Grigoriev, Mikhail Maslyaev and Alexander Hvatov <span class="bdg">en</span>
-4. <!--WIP both--> [20] Logical Architecture of Intelligent Image Processing Control System in Fog Environment \\
+3. <!--WIP both--> [20] Logical Architecture of Intelligent Image Processing Control System in Fog Environment \\
     by Alexey Subbotin and Nataly Zhukova <span class="bdg">en</span>
-5. <!--WIP both--> [10] Improving the Efficiency of Forecasting Sports Events using a Cascade of Neural Networks \\
+4. <!--WIP both--> [10] Improving the Efficiency of Forecasting Sports Events using a Cascade of Neural Networks \\
     by Vasily Meltsov, Alexander Krutikov and Nataly Zhukova <span class="bdg">en</span>
-1. <!--RaD en--> [50] Building a Tree of Perception Control Planning Using Branch and Bound Optimization \\
+5. <!--RaD en--> [50] Building a Tree of Perception Control Planning Using Branch and Bound Optimization \\
     by Aleksandr Khodos, Michail Panteleyev and Mikhail Zolotukhin <span class="bdg">ru</span>
 
 ### Computer Systems & Networks Engineering
@@ -170,19 +170,19 @@ Chair: [Igor Bessmertnyi (ITMO University)](https://scs.ifmo.ru/en/viewperson/10
 
 1. Using RPA as Technology Bridge for Digital Transformation\\
     by guest Aleksandr Gritsenko (Masterdata) <span class="bdg">en</span> <span class="bdg">long</span> 
-1. <!--RaD en--> [19] About Usage of LDPC Codes in Gilbert Channel \\
+2. <!--RaD en--> [19] About Usage of LDPC Codes in Gilbert Channel \\
     by Anna Fominykh, Alina Veresova and Andrei Ovchinnikov <span class="bdg">en</span> <span class="bdg">long</span>
-1. <!--RaD both--> [8] Methods of Monitoring the Use of Means of Protection in Infocommunication Systems \\
+3. <!--RaD both--> [8] Methods of Monitoring the Use of Means of Protection in Infocommunication Systems \\
     by Vladimir Kolomoitcev and Ksenia Kolomoytseva <span class="bdg">en</span>
-1. <!--RaD en--> [28] Comparison of Approaches to Component Reliability Allocation for Distributed Control Systems \\
+4. <!--RaD en--> [28] Comparison of Approaches to Component Reliability Allocation for Distributed Control Systems \\
     by Aleksandr Moshnikov <span class="bdg">en</span>
-1. <!--RaD en--> [79] Ranking Information Security Requirements for High-Priority Protected Objects \\
+5. <!--RaD en--> [79] Ranking Information Security Requirements for High-Priority Protected Objects \\
     by Mark Skorykh, Alexander Yaroshenko, Konstantin Izrailov and Mikhail Buinevich <span class="bdg">en</span>
-1. <!--WIP --> [53] Markov Model Of The Reliability Of A Duplicated Computer System, Taking Into Account The Recovery Of Information Of Various Criticality To Its en Loss \\
+6. <!--WIP --> [53] Markov Model Of The Reliability Of A Duplicated Computer System, Taking Into Account The Recovery Of Information Of Various Criticality To Its en Loss \\
     by Vladimir Bogatyrev, Stanislav Bogatyrev and Аnatoly Bogatyrev <span class="bdg">en</span>
-1. <!--WIP en--> [58] Multipath redundant transmission with traffic hetero-geneity in terms of the criticality of network delays \\
+7. <!--WIP en--> [58] Multipath redundant transmission with traffic hetero-geneity in terms of the criticality of network delays \\
     by Vladimir Bogatyrev, Stanislav Bogatyrev and Anatoly Bogatyrev <span class="bdg">en</span>
-1. <!--RaD en--> [32] Difficulties in Implementing a Heavy-Tailed Distribution using the Example of the Pareto Distribution in Modeling Network Traffic \\
+8. <!--RaD en--> [32] Difficulties in Implementing a Heavy-Tailed Distribution using the Example of the Pareto Distribution in Modeling Network Traffic \\
     by Tatiana Tatarnikova and Oleg Kutuzov <span class="bdg">ru</span>
 
 ### Masterclass: Погружение в RPA-технологии
@@ -199,11 +199,11 @@ Time: 15:30-17:00 \\
 Track: 1 (auditorium number: 431а, Youtube: [link](https://www.youtube.com/watch?v=qMCyzrnw74E), Zoom meeting: [link](https://itmo.zoom.us/j/83481605273?pwd=VXBhK2NmblB1MGpUWFE3TXhFbnJ6dz09)) \\
 Chair: [Ildar Baimuratov (ITMO University)](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
 
-2. <!--RaD en--> [11] Automation of Machine Learning Pipeline Design by an Ontology as an Accumulative Meta-Learning Model \\
+1. <!--RaD en--> [11] Automation of Machine Learning Pipeline Design by an Ontology as an Accumulative Meta-Learning Model \\
     by Maxim Aliev and Ildar Baimuratov <span class="bdg">en</span> <span class="bdg">long</span>
-3. <!--RaD en--> [14] Full Arc Consistency In Asynchronous Forward Bounding Algorithm \\
+2. <!--RaD en--> [14] Full Arc Consistency In Asynchronous Forward Bounding Algorithm \\
     by Rachid Adrdor and Lahcen Koutti <span class="bdg">en</span> <span class="bdg">long</span>
-1. <!--RaD en--> [36] Improving Model Training For Supervised Machine Learning Using OpenMP \\
+3. <!--RaD en--> [36] Improving Model Training For Supervised Machine Learning Using OpenMP \\
     by Omar Mohammed, Alexey Paznikov and Sergei Gorlatch <span class="bdg">en</span>
 4. <!--WIP en--> [4] Experience in Applying Machine Learning Methods in Optical Design \\
     by Irina Livshits, Alex Petukhov, Jyrki Saarinen and Oliver Faehnle <span class="bdg">en</span>
@@ -222,15 +222,15 @@ Co-Chair: [Andrei Zhdanov (ITMO University)](https://scs.ifmo.ru/en/viewperson/1
 
 1. <!--RaD en--> [25] Speech Source Separation Based on Dual - Microphone System \\
     by Trong The Quan and Tuan Anh Pham <span class="bdg">en</span> <span class="bdg">long</span> 
-1. <!--RaD en--> [72] Modification Hausdorff Metric for Point Cloud Registration \\
+2. <!--RaD en--> [72] Modification Hausdorff Metric for Point Cloud Registration \\
     by Polina Loseva, Alexander Mezhenin and Vera Izvozchikova <span class="bdg">en</span> <span class="bdg">long</span> 
-1. <!--RaD en--> [24] The Using of Real Part Component to Enhance Performance of MVDR Beamformer \\
+3. <!--RaD en--> [24] The Using of Real Part Component to Enhance Performance of MVDR Beamformer \\
     by Trong The Quan and Tuan Anh Pham <span class="bdg">en</span>
-1. <!--RaD en--> [26] An Additional Equalizer for GSC Beamformer \\
+4. <!--RaD en--> [26] An Additional Equalizer for GSC Beamformer \\
     by Trong The Quan and Ba Huy Nguyen <span class="bdg">en</span>
-1. <!--RaD en--> [2] Clearing the Image of Saturn and its Satellites from Distortions by Mathematical and Computer Processing \\
+5. <!--RaD en--> [2] Clearing the Image of Saturn and its Satellites from Distortions by Mathematical and Computer Processing \\
     by Valery Sizikov, Aleksandra Dovgan and Nina Rushchenko <span class="bdg">en</span>
-1. <!--WIP en--> [38] Virtual Reality Technologies and Neurotechnologies Application in Maxillofacial and Plastic Surgery \\
+6. <!--WIP en--> [38] Virtual Reality Technologies and Neurotechnologies Application in Maxillofacial and Plastic Surgery \\
     by Artem Smolin, Nikita Tulikov, Dmitry Shtennikov, Anna Lysenko, Elizaveta Ivanova, Igor Klimov and Andrei Mironov <span class="bdg">en</span>
 
 ## Fri. 3 Dec. 2021 (Day 2)
@@ -251,15 +251,15 @@ Chair: [Aleksei Platunov (ITMO University)](https://scs.ifmo.ru/en/viewperson/10
 
 1. <!--RaD en--> [13] Probability Assessments for Voltage Values of Network with Distribution Generation \\
     by Dmitriy Kim, Georgi Georgiev and Natalya Markovskaya <span class="bdg">en</span> <span class="bdg">long</span> 
-1. <!--RaD en--> [67] Group Control of Multi-Agent Robotics Systems Under the Influence of Destabilizing Factors \\
+2. <!--RaD en--> [67] Group Control of Multi-Agent Robotics Systems Under the Influence of Destabilizing Factors \\
     by Tatyana Zikratova, Igor Zikratov, Pavel Belyaev and Evgenii Neverov <span class="bdg">en</span>
-2. <!--RaD en--> [82] Model of a Unified Description of the Organization of a Computing System \\
+3. <!--RaD en--> [82] Model of a Unified Description of the Organization of a Computing System \\
     by Yaroslav Gorbachev <span class="bdg">en</span>
 4. <!--WIP en--> [64] Cyber Physical System: Concept, Security Issues and Applications \\
     by Rahul Johari, Riya Bhatia, Sapna Chaudhary and Shrey Gupta <span class="bdg">en</span>
 5. <!--WIP en--> [42] Development of a Potentiostat Based on the ESP32 Microcontroller \\
     by Ivan Kirilenko, Alexandr Nikolaev, Ekaterina Kosareva, Artemii Zenkin and Nikolay Nikolaev <span class="bdg">en</span>
-3. <!--RaD en--> [6] Estimation Frequency of Multi-Sinusoidal Signals \\
+6. <!--RaD en--> [6] Estimation Frequency of Multi-Sinusoidal Signals \\
     by Khac Tung Nguyen and Sergey. M Vlasov <span class="bdg">ru</span>
 
 ### Multimedia & Computer Graphics #2
@@ -302,13 +302,13 @@ Chair: [Vasiliy Pinkevich (ITMO University)](https://scs.ifmo.ru/en/viewperson/1
     by Aleksandr Pavlov, Dmitry Pavlov, Aleksandr Umarov and Andrey Gordeev <span class="bdg">en</span> <span class="bdg">long</span>
 2. <!--RaD both--> [68] Computer Voice Control for CNC Machine using Natural Language Processing \\
     by Aleksei Katridi and Yuri Fedosov <span class="bdg">en</span> <span class="bdg">long</span>
-4. <!--WIP en--> [45] Energy consumption estimation model for information transmission in a networked cyber-kinematic system \\
+3. <!--WIP en--> [45] Energy consumption estimation model for information transmission in a networked cyber-kinematic system \\
     by Tatyana Astakhova and Mikhail Kolbanyov <span class="bdg">en</span>
-5. <!--WIP en--> [29] Applying Machine Learning Methods to Detect IoT Attacks \\
+4. <!--WIP en--> [29] Applying Machine Learning Methods to Detect IoT Attacks \\
     by Tatiana Tatarnikova and Pavel Bogdanov <span class="bdg">ru</span>
-6. <!--RaD ru--> [81] Cross-level mechanisms, microarchitectural patterns, and aspect-level models in embedded systems design \\
+5. <!--RaD ru--> [81] Cross-level mechanisms, microarchitectural patterns, and aspect-level models in embedded systems design \\
     by Maxim Kolchurin, Vasiliy Pinkevich and Alexey Platunov <span class="bdg">ru</span>
-7. <!--RaD ru--> [40] Designing a Visual Data Sonification System for Navigation of Visually Impaired People \\
+6. <!--RaD ru--> [40] Designing a Visual Data Sonification System for Navigation of Visually Impaired People \\
     by Timofey Anisimov <span class="bdg">ru</span>
 
 ### Software Engineering #1
@@ -320,17 +320,17 @@ Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728
 
 1. <!--RaD en--> [16] Efficiency of gRPC Framework for Inter-Service Communication \\
     by Alexey Novopashin and Ilya Gosudarev <span class="bdg">en</span> <span class="bdg">long</span> 
-1. <!--RaD en--> [3] Atarashi: An Intelligent Open-Source License Scanner \\
+2. <!--RaD en--> [3] Atarashi: An Intelligent Open-Source License Scanner \\
     by Ayush Bhardwaj, Gaurav Mishra and Kaushlendra Pratap <span class="bdg">en</span> <span class="bdg">long</span> 
-1. <!--RaD en--> [61] Toward Problems of Non-deterministic Discrete-event Systems Multithreaded Simulating \\
+3. <!--RaD en--> [61] Toward Problems of Non-deterministic Discrete-event Systems Multithreaded Simulating \\
     by Arthur Lazdin and Anastasiia Smirnova <span class="bdg">en</span>
-1. <!--WIP en--> [33] Research of voice recognition technologies in conditions of various speech disorders \\
+4. <!--WIP en--> [33] Research of voice recognition technologies in conditions of various speech disorders \\
     by Artem Meinov and Alexandra Denisova <span class="bdg">en</span>
-1. <!--WIP en--> [74] The Tool for Automating Application Containerization With the Possibility to Expand the Used Technology Stack \\
+5. <!--WIP en--> [74] The Tool for Automating Application Containerization With the Possibility to Expand the Used Technology Stack \\
     by Ekaterina Derbenyova and Elena Avksentieva <span class="bdg">en</span>
-1. <!--WIP both--> [71] Returning Extended Information about Errors Enclosed in the Result Object instead of Anticipated Exceptions in Java \\
+6. <!--WIP both--> [71] Returning Extended Information about Errors Enclosed in the Result Object instead of Anticipated Exceptions in Java \\
     by Arthur Kupriyanov, Anton Gavrilov and Vladimir Nikolaev <span class="bdg">en</span>
-1. <!--RaD en--> [57] Method of Multithreaded Processing of Message Authentication Codes based on Cellular Automata \\
+7. <!--RaD en--> [57] Method of Multithreaded Processing of Message Authentication Codes based on Cellular Automata \\
     by Elena Kuleshova, Maxim Tanygin, Anatoly Marukhlenko, Vyacheslav Dobritsa and Vladislav Selin <span class="bdg">ru</span>
 
 ### Natural Language Processing
@@ -364,19 +364,19 @@ Chair: [Aglaia Ilina (ITMO University)](https://scs.ifmo.ru/en/viewperson/120728
 
 1. <!--RaD en--> [69] Multi-Purpose Cloud-Based Compiler Based on Micro-Service Architecture and Container Orchestration \\
     by Sayed Moeid Heidari and Alexey Alexandrovich Paznikov <span class="bdg">en</span> <span class="bdg">long</span>
-1. <!--WIP both--> [56] Comparison of template engines and React server-side rendering performance \\
+2. <!--WIP both--> [56] Comparison of template engines and React server-side rendering performance \\
     by Dmitrii Fitisov and Ilya Gosudarev <span class="bdg">en</span> <span class="bdg">long</span>
-1. <!--RaD both --> [49] Research of the Characteristics of Functioning of a Cloud System with a Non-Uniform Load
+3. <!--RaD both --> [49] Research of the Characteristics of Functioning of a Cloud System with a Non-Uniform Load
     by Sodnom Z. Lygdenov <span class="bdg">en</span>
-1. <!--WIP en--> [34] Usability Testing of the DanfossCAD Interface for the Optimized Work in AutoCAD \\
+4. <!--WIP en--> [34] Usability Testing of the DanfossCAD Interface for the Optimized Work in AutoCAD \\
     by Vladislava Nikolaeva, Daria Lee, Andrei Balkanskii and Artem Smolin <span class="bdg">en</span>
-1. <!--WIP en --> [78] Combining Methods for Identifying Insiders of Large Information Systems
+5. <!--WIP en --> [78] Combining Methods for Identifying Insiders of Large Information Systems
     by Nikita Romanov, Dmitry Vlasov, Konstantin Izrailov and Mikhail Buinevich <span class="bdg">en</span>
-1. <!--RaD ru--> [22] Parallel Algorithms for Fuzzing Testing of Multithreaded Applications based on Google Thread Sanitizer \\
+6. <!--RaD ru--> [22] Parallel Algorithms for Fuzzing Testing of Multithreaded Applications based on Google Thread Sanitizer \\
     by Oleg Doronin <span class="bdg">ru</span>
-1. <!--WIP en--> [44] Modern Front-End State Management Efficiency Evaluation \\
+7. <!--WIP en--> [44] Modern Front-End State Management Efficiency Evaluation \\
     by Petr Baranov and Ilya Gosudarev <span class="bdg">ru</span>
-1. <!--WIP ru--> [75] Generalized Grammar Description Model \\
+8. <!--WIP ru--> [75] Generalized Grammar Description Model \\
     by Elizaveta Kuzenkova, Iurii Korenkov, Ivan Loginov, Andrey Dergachev and Aglaya Gurianova <span class="bdg">ru</span>
 
 <!-- en 84 An Ensemble Learning Approach Towards Prediction of Diabetic Retinopathy \\
