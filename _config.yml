@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MICSECS-2021
+title: MICSECS-2022
 email: mr@itmo.ru
 author: ITMO University
 
@@ -34,18 +34,18 @@ author: ITMO University
 # * author: {author} (Value is the same as site.author)
 # * copyright: (c) - ©
 # * copyleft: (cleft)
-# * sound recording copyright: (p) - ℗ 
+# * sound recording copyright: (p) - ℗
 #
 # For example:
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Copyright (c) 2021 {author}"
+copyright: "Copyright (c) 2022 {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-   - The XIII Majorov International Conference on Software Engineering and Computer Systems
+   - The XIV Majorov International Conference on Software Engineering and Computer Systems
 
-baseurl: 
+baseurl:
 sass:
   sass_dir: _sass
   style: :compressed
@@ -133,7 +133,7 @@ translate_langs: []
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "off"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -147,10 +147,8 @@ translate_langs: []
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.html
-  - call-for-papers.md
-  - register-and-submit.md
   - program.md
-  - about.md
+  - contact.md
 
 # Page default value
 # defaults:
