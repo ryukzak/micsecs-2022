@@ -2,7 +2,7 @@
 layout: post
 title: MICSECS-2022
 heading: "MICSECS-2022"
-subheading: XIV конференция "Майоровские чтения"
+subheading: XIV научно-практическая конференция-форум "Майоровские чтения"
 banner: "/assets/images/banners/home.png"
 ---
 
