@@ -30,9 +30,11 @@ banner: "/assets/images/banners/home_5-01-01.jpg"
 Ссылка на регистрацию:
 https://pikt.timepad.ru/event/2234449/
 
-## Партнёры
+## Партнёры на день карьеры
+<a href="https://2022.micsecs.org" Target="_blank"><Img src="/assets/images/Logo.jpg" Width="300" Height="250"> </a>
 
-*уточняется*
+
+
 
 <!-- <a href="https://itmo.ru/ru/" Target="_blank"><Img src="/assets/images/itmo_logo_horiz_white_en.png" Width="230" Height="50"> </a> -->
 <!-- <a href="https://masterdata.ru/about/" Target="_blank"><Img src="/assets/images/logo-blue-1.png" Width="200" Height="50"> </a> -->
