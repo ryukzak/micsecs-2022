@@ -28,7 +28,7 @@ banner: "/assets/images/banners/home_5-01-01.jpg"
 Оффлайн мастер-класс от "Лаборатории Касперского" - "Инструментарий для решения учебных задач по кибериммунной разработке".
 17 ноября 17:00–19:00
 Ссылка на регистрацию:
-https://pikt.timepad.ru/event/2234449/
+[https://pikt.timepad.ru/event/2234449/](https://pikt.timepad.ru/event/2234449/)
 
 ## Партнёры на день карьеры
 <a href="https://2022.micsecs.org" Target="_blank"><Img src="/assets/images/Logo.jpg" Width="300" Height="300"> </a>
