@@ -31,7 +31,7 @@ banner: "/assets/images/banners/home_5-01-01.jpg"
 [https://pikt.timepad.ru/event/2234449/](https://pikt.timepad.ru/event/2234449/)
 
 ## Партнёры на день карьеры
-<a href="https://2022.micsecs.org" Target="_blank"><Img src="/assets/images/Logo.jpg" Width="300" Height="300"> </a>
+<a href="https://2022.micsecs.org" Target="_blank"><Img src="/assets/images/Logo.jpg" Width="300" Height="400"> </a>
 
 
 
