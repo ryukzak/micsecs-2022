@@ -104,7 +104,12 @@ banner: "/assets/images/banners/home_5-01-01.jpg"
 
 Предлагаем площадку для выступления в формате открытого микрофона, вы можете выступить со своим проектом, идеей, результатом работы, исследования, гипотезой.
 
+Расписание выступлений: [https://docs.google.com/spreadsheets/d/1Y9mlddSTe18447vO-l9HjqAdQw0v6hSnaNuxDmJIxzg/edit#gid=0](https://docs.google.com/spreadsheets/d/1Y9mlddSTe18447vO-l9HjqAdQw0v6hSnaNuxDmJIxzg/edit#gid=0)
+
+Регистрация на zoom-конференцию: [https://itmo.zoom.us/meeting/register/tZIofu-gpzosGtcH0h5krUoOPRwh9GmjP5Rz](https://itmo.zoom.us/meeting/register/tZIofu-gpzosGtcH0h5krUoOPRwh9GmjP5Rz)
+
 Ссылка для регистрации: [https://pikt.timepad.ru/event/2236055/](https://pikt.timepad.ru/event/2236055/)
+
 Требования к выступлению в формате «Открытого микрофона»:
 
 Презентация проекта в формате pdf (объём не более 10 страниц). Содержание:
